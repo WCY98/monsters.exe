@@ -49,6 +49,7 @@ const App = () => {
   return (
     <div className="App">
       <h1 className="app-title">Monsters Rolodex</h1>
+      <h2 className="app-title2">Monsters Rolodex2</h2>
 
       <SearchBox 
       className='monsters-search-box'
